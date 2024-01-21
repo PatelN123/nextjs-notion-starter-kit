@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'ITIL V4 Notes',
-  domain: 'itil.nayanpatel.net',
+  domain: 'itil-website.vercel.app',
   author: 'Nayan Patel',
 
   // open graph metadata (optional)
